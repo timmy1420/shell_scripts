@@ -10,7 +10,7 @@ echo "Hello, I'm a automated tool to install software for you :)"
 sleep 3
 
 echo "I want to make sure your system is up to date"
-sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoremove
+sudo apt-get update
 clear
 
 echo "Now I'm ready to go!"
@@ -19,7 +19,7 @@ clear
 
 echo "I'll be installing some games for you environment :)"
 sleep 3
-sudo apt-get install wine playonlinux teeworlds mesa-utils steam
+sudo apt-get install wine playonlinux teeworlds mesa-utils steam hedgewars warzone2100 0ad
 clear
 
 echo "Thank you for using me :)"

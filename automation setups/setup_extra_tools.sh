@@ -12,7 +12,7 @@ echo "Hello, I'm a automated tool to install software for you :)"
 sleep 3
 
 echo "I want to make sure your system is up to date"
-sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoremove
+sudo apt-get update
 clear
 
 echo "Now I'm ready to go!"
