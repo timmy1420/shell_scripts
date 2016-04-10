@@ -4,6 +4,7 @@ Hello, this is a reposotory for shell scripts focsued on the Ubuntu Bash Shell. 
 
 # Make sure the system is updated
 In every script I've placed an system update
+(sudo apt-get update)
 
 # Automation Setups
 Development:
