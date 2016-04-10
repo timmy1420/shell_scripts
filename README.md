@@ -1,4 +1,4 @@
-# Repo sescription
+# Repo description
 
 Hello, this is a reposotory for shell scripts focsued on the Ubuntu Bash Shell. I made it because I'm lazy xD
 
@@ -15,7 +15,9 @@ Tasksel is a Debian/Ubuntu tool that installs multiple related packages as a co-
 VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 2.
 
 - java (http://packages.ubuntu.com/trusty/default-jre)
+
 - lamp-server with phpmyadmin using tasksel
+
 - composer (https://getcomposer.org/)
 Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 
@@ -101,6 +103,8 @@ SubDownloader is a program for automatic find and download/upload subtitles for 
 Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!
 
 - synaptic package manager
+
 - gdebi package installer
+
 - bleachbit (https://www.bleachbit.org/)
 BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there.
