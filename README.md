@@ -1,4 +1,4 @@
-# Shell scripts
+# Repo sescription
 
 Hello, this is a reposotory for shell scripts focsued on the Ubuntu Bash Shell. I made it because I'm lazy xD
 

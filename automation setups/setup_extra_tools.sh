@@ -4,8 +4,6 @@
 # Developer: Mitchel Pawirodinomo
 # Date: 9 April 2016
 # ******************************************
-
-# clear the terminal first
 clear
 
 echo "Hello, I'm a automated tool to install software for you :)"
@@ -24,4 +22,6 @@ sleep 3
 sudo apt-get install curl
 sudo curl https://yt-dl.org/latest/youtube-dl -o /usr/local/bin/youtube-dl
 sudo chmod a+rx /usr/local/bin/youtube-dl
-echo "I just installed youtube-dl for you, for documentation go to this site: "
+clear
+
+echo "Thank you for using me :)"
