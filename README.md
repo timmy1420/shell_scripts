@@ -13,7 +13,8 @@ Development:
 - java (http://packages.ubuntu.com/trusty/default-jre)
 - lamp-server with phpmyadmin using tasksel
 - composer (https://getcomposer.org/)
-- nodejs (coming soon)
+- nodejs (https://nodejs.org/en/)
+- git (https://help.github.com/articles/set-up-git/)
 
 Editing:
 - darktable (http://www.darktable.org/)

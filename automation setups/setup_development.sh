@@ -19,7 +19,7 @@ clear
 
 echo "I'll be installing LAMP stack for you"
 sleep 3
-sudo apt-get install tasksel virtualbox default-jdk default-jre
+sudo apt-get install tasksel virtualbox default-jdk default-jre git nodejs npm
 sudo tasksel install lamp-server
 sudo apt-get install phpmyadmin
 sudo sh -c 'echo "Include /etc/phpmyadmin/apache.conf" >> /etc/apache2/apache2.conf'
