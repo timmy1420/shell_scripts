@@ -1,1 +1,1 @@
-# snippets
+# Shell scripts
