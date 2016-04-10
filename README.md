@@ -1,7 +1,6 @@
 # Shell scripts
 
-Hello, this is a reposotory for shell scripts focued on the Ubuntu Bash Shell.
-This is made because I'm lazy xD
+Hello, this is a reposotory for shell scripts focsued on the Ubuntu Bash Shell. I made it because I'm lazy xD
 
 # Make sure the system is updated
 In every script I've placed an system update
